@@ -1,5 +1,3 @@
-# SnowLight
-
 -----------
 Description
 -----------
@@ -8,8 +6,8 @@ SnowLight is a minimlist version of SnowFlat responsive theme for Question2Answe
 ------------
 Installation
 ------------
-#Upload the theme in qa-theme folder.
-#Select the theme SnowLight on General page in admin section.
+1. Upload the theme in qa-theme folder.
+1. Select the theme SnowLight on General page in admin section.
 
 -----------
 Disclaimer
