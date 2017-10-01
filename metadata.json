@@ -1,0 +1,10 @@
+{
+	"name": "SnowLight",
+	"description": "SnowLight is a minimlist version of SnowFlat responsive theme",
+	"version": "1.0",
+	"date": "2017-10-01",
+	"author": "Q2A Market (extended by Gurjyot Singh)",
+	"author_uri": "http://www.q2amarket.com",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
